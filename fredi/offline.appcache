@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1479129257
+#1479258166
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -23,7 +23,7 @@ images/fundofase1-sheet0.png
 images/fredi-sheet0.png
 images/sprite20-sheet0.png
 images/fantasma-sheet0.png
-images/sprite21-sheet0.png
+images/barreira_fundo-sheet0.png
 images/btn_jogar-sheet0.png
 images/vida1-sheet0.png
 images/vida1-sheet1.png
@@ -44,8 +44,12 @@ images/sprite19-sheet0.png
 images/btn_lvl1-sheet0.png
 images/btn_lvl2-sheet0.png
 images/btn_lvl3-sheet0.png
+images/barreiras-sheet0.png
+media/258142__tuudurt__level-win.m4a
 media/258142__tuudurt__level-win.ogg
+media/320672__rhodesmas__win-01.m4a
 media/320672__rhodesmas__win-01.ogg
+media/76376__spazzo-1493__game-over.m4a
 media/76376__spazzo-1493__game-over.ogg
 media/265549__vikuserro__cheap-flash-game-tune%20[qualidade%20alta%20].ogg
 media/inicial.ogg
