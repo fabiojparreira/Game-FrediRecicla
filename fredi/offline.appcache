@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1479258166
+#1479664670
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -45,6 +45,8 @@ images/btn_lvl1-sheet0.png
 images/btn_lvl2-sheet0.png
 images/btn_lvl3-sheet0.png
 images/barreiras-sheet0.png
+images/sprite2-sheet0.png
+images/barra_carregando.png
 media/258142__tuudurt__level-win.m4a
 media/258142__tuudurt__level-win.ogg
 media/320672__rhodesmas__win-01.m4a
@@ -52,9 +54,13 @@ media/320672__rhodesmas__win-01.ogg
 media/76376__spazzo-1493__game-over.m4a
 media/76376__spazzo-1493__game-over.ogg
 media/265549__vikuserro__cheap-flash-game-tune%20[qualidade%20alta%20].ogg
-media/inicial.ogg
 media/voce_venceu.ogg
 media/tente_novamente.ogg
+media/lixeira_correta.ogg
+media/lixeira_errada.ogg
+media/setas.ogg
+media/iniciall.ogg
+media/lixo_passou.ogg
 icon-16.png
 icon-32.png
 icon-114.png
