@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1479664670
+#1479869227
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -61,6 +61,18 @@ media/lixeira_errada.ogg
 media/setas.ogg
 media/iniciall.ogg
 media/lixo_passou.ogg
+media/metais.ogg
+media/organico.ogg
+media/papeis.ogg
+media/plastico.ogg
+media/vidros.ogg
+media/fase1.ogg
+media/plastico_decompor.ogg
+media/vidro_decompor.ogg
+media/papeis_decompor.ogg
+media/organico_decompor.ogg
+media/metais_decompor.ogg
+media/primeirafase.ogg
 icon-16.png
 icon-32.png
 icon-114.png
